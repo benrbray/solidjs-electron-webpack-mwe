@@ -2,7 +2,7 @@ import Renderer from './render';
 
 ////////////////////////////////////////////////////////////
 
-let renderer:Renderer;
+let renderer;
 
 onload = function(){
 	renderer = new Renderer();

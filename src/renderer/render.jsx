@@ -2,8 +2,6 @@ import { render } from "solid-js/dom";
 import { createSignal, onCleanup, createEffect, createState } from "solid-js";
 
 class Renderer {
-	// ui elements
-	_react:null | any;
 
 	constructor() {
 		this._react = null;
