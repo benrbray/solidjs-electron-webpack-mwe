@@ -2,6 +2,8 @@
 
 First, run `yarn` to install all dependencies.  Then, run `npx run dev` to build+run the Electron application.
 
+Discussion in this [GitHub Issue](https://github.com/ryansolid/solid/issues/196).
+
 Compare to my [solidjs-mwe](https://github.com/benrbray/solidjs-mwe) which does not use electron.
 
 # electron-webpack-quick-start
