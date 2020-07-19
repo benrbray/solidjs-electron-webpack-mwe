@@ -30,6 +30,9 @@
   "electronWebpack": {
     "renderer": {
       "webpackConfig": "webpack.renderer.js"
-    }
+    },
+    "whiteListedModules": [
+      "solid-js"
+    ]
   }
 }

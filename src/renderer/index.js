@@ -1,3 +1,4 @@
+import solidJsDom from "solid-js/dom";
 import Renderer from './render';
 
 ////////////////////////////////////////////////////////////
