@@ -19,7 +19,7 @@
     "@babel/preset-typescript": "^7.10.4",
     "babel-loader": "^8.1.0",
     "babel-preset-solid": "^0.18.14",
-    "electron": "8.2.0",
+    "electron": "15.5.5",
     "electron-builder": "^22.4.1",
     "electron-webpack": "^2.8.2",
     "electron-webpack-ts": "^4.0.1",
